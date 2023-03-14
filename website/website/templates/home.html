@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>
+    <!-- The main heading of the page -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='static.css') }}">
+</head>
+<body>
+    <h1>Home Page</h1>
+    <!-- A brief introduction to Claire Lindstrom -->
+    <p>Claire Lindstrom is a digital artist, programmer, and creator on the internet</p>
+    <!-- A list of links to other pages on the website -->
+    <ul>
+        <li><a href="{{ url_for('contact') }}">Contact</a></li>
+        <li><a href="{{ url_for('information') }}">Information</a></li>
+        <li><a href="{{ url_for('login') }}">Login</a></li>
+        <li><a href="{{ url_for('register') }}">Register</a></li>
+    </ul>
+<img src="{{ url_for('static', filename='images/claireabigail.jpg') }}" alt="Claire Abigail" width="300">
+
+
+</body>
+</html>

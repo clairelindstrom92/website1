@@ -1,0 +1,43 @@
+<!--
+This is the Information Page of Claire Lindstrom's website.
+Here is some information about Claire and her work history.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Information Page</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='static.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <h1>Information Page</h1>
+    <!-- About Claire -->
+    <h3>Claire Lindstrom </h3>
+    <!-- Digital Portfolio -->
+    <p>Here is some information about Claire:</p>
+
+    <ul>
+        <li>Claire was born in Laguna Beach, CA.</li>
+        <li>She loves technology, art and living life.</li>
+        <li>She has an 8-year-old daughter.</li>
+        <li>She currently works in Variable Data and Graphic Art support at Kelly Digital.</li>
+        <li>Follow her on <a href="https://www.linkedin.com/in/clairelindstrom/">LinkedIn</a>.</li>
+    </ul>
+    <p>Look at her digital portfolio here: </p>
+        <a href="https://sites.google.com/view/clairelindstrom/home" target="_self">
+            <img src="{{ url_for('static', filename='images/claire lindstrom.png') }}" alt="Claire Abigail" width="300">
+        </a>
+
+    <!-- Work History -->
+    <h3>Work History</h3>
+   <ol>
+       <li>Kelly Digital - May 2022 - Present</li>
+       <li>GetWellNetwork - Aug 2021 – May 2022</li>
+       <li>Oxford House - June 2019 - August 2021</li>
+    </ol>
+        <img src ="https://www.thoughtco.com/thmb/GpMxErRTuBhAkiOw8ZjY0tJYuJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TheAlchemistCover-5456318ceb53461b9bb6081ed8b99252.jpg" class="image-style">
+        <img src ="https://digitalcommons.pittstate.edu/ertman/1049/preview.jpg">
+        <img src="https://m.media-amazon.com/images/I/41VKDyqd6RL._SY344_BO1,204,203,200_.jpg">
+      </a>
+    </body>
+    </html>

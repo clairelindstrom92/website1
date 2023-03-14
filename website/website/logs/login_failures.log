@@ -1,0 +1,274 @@
+2023-03-14 00:04:06,198 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:04:06,198 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:04:06,200 -  * Restarting with stat
+2023-03-14 00:04:07,920 -  * Debugger is active!
+2023-03-14 00:04:07,924 -  * Debugger PIN: 410-440-955
+2023-03-14 00:04:31,415 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:04:31,417 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:04:31,421 -  * Restarting with stat
+2023-03-14 00:04:33,159 -  * Debugger is active!
+2023-03-14 00:04:33,163 -  * Debugger PIN: 410-440-955
+2023-03-14 00:05:02,405 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:05:02,443 -  * Restarting with stat
+2023-03-14 00:10:39,772 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:10:39,772 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:10:39,774 -  * Restarting with stat
+2023-03-14 00:10:41,742 -  * Debugger is active!
+2023-03-14 00:10:41,745 -  * Debugger PIN: 410-440-955
+2023-03-14 00:11:18,052 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:11:18,052 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:11:18,054 -  * Restarting with stat
+2023-03-14 00:11:19,867 -  * Debugger is active!
+2023-03-14 00:11:19,872 -  * Debugger PIN: 410-440-955
+2023-03-14 00:11:34,361 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:11:34,361 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:11:34,364 -  * Restarting with stat
+2023-03-14 00:11:36,080 -  * Debugger is active!
+2023-03-14 00:11:36,084 -  * Debugger PIN: 410-440-955
+2023-03-14 00:14:53,765 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:14:53,812 -  * Restarting with stat
+2023-03-14 00:15:34,561 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:15:34,561 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:15:34,561 -  * Restarting with stat
+2023-03-14 00:15:35,955 -  * Debugger is active!
+2023-03-14 00:15:35,970 -  * Debugger PIN: 410-440-955
+2023-03-14 00:16:16,314 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:16:16,377 -  * Restarting with stat
+2023-03-14 00:16:18,619 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:16:18,619 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:16:18,621 -  * Restarting with stat
+2023-03-14 00:16:20,361 -  * Debugger is active!
+2023-03-14 00:16:20,364 -  * Debugger PIN: 410-440-955
+2023-03-14 00:16:27,116 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:16:27,116 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:16:27,118 -  * Restarting with stat
+2023-03-14 00:16:28,905 -  * Debugger is active!
+2023-03-14 00:16:28,908 -  * Debugger PIN: 410-440-955
+2023-03-14 00:16:50,747 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:16:50,747 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:16:50,749 -  * Restarting with stat
+2023-03-14 00:16:52,499 -  * Debugger is active!
+2023-03-14 00:16:52,502 -  * Debugger PIN: 410-440-955
+2023-03-14 00:18:23,626 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:18:23,626 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:18:23,628 -  * Restarting with stat
+2023-03-14 00:18:25,359 -  * Debugger is active!
+2023-03-14 00:18:25,362 -  * Debugger PIN: 410-440-955
+2023-03-14 00:18:43,280 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:18:43,280 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:18:43,282 -  * Restarting with stat
+2023-03-14 00:18:45,031 -  * Debugger is active!
+2023-03-14 00:18:45,035 -  * Debugger PIN: 410-440-955
+2023-03-14 00:20:48,355 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:20:48,355 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:20:48,358 -  * Restarting with stat
+2023-03-14 00:20:50,167 -  * Debugger is active!
+2023-03-14 00:20:50,171 -  * Debugger PIN: 410-440-955
+2023-03-14 00:20:53,755 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:20:53,755 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:20:53,758 -  * Restarting with stat
+2023-03-14 00:20:55,507 -  * Debugger is active!
+2023-03-14 00:20:55,511 -  * Debugger PIN: 410-440-955
+2023-03-14 00:21:27,274 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:21:27,274 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:21:27,276 -  * Restarting with stat
+2023-03-14 00:21:29,012 -  * Debugger is active!
+2023-03-14 00:21:29,015 -  * Debugger PIN: 410-440-955
+2023-03-14 00:22:20,174 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:22:20,174 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:22:20,176 -  * Restarting with stat
+2023-03-14 00:22:21,921 -  * Debugger is active!
+2023-03-14 00:22:21,926 -  * Debugger PIN: 410-440-955
+2023-03-14 00:23:26,163 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:23:26,164 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:23:26,169 -  * Restarting with stat
+2023-03-14 00:23:28,327 -  * Debugger is active!
+2023-03-14 00:23:28,330 -  * Debugger PIN: 410-440-955
+2023-03-14 00:24:28,674 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:24:28,674 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:24:28,676 -  * Restarting with stat
+2023-03-14 00:24:30,457 -  * Debugger is active!
+2023-03-14 00:24:30,462 -  * Debugger PIN: 410-440-955
+2023-03-14 00:27:46,507 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:27:46,507 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:27:46,510 -  * Restarting with stat
+2023-03-14 00:27:48,451 -  * Debugger is active!
+2023-03-14 00:27:48,454 -  * Debugger PIN: 410-440-955
+2023-03-14 00:28:11,611 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:28:11,611 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:28:11,614 -  * Restarting with stat
+2023-03-14 00:28:13,394 -  * Debugger is active!
+2023-03-14 00:28:13,398 -  * Debugger PIN: 410-440-955
+2023-03-14 00:28:17,609 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:28:17,609 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:28:17,611 -  * Restarting with stat
+2023-03-14 00:28:19,361 -  * Debugger is active!
+2023-03-14 00:28:19,364 -  * Debugger PIN: 410-440-955
+2023-03-14 00:30:59,409 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:30:59,409 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:30:59,411 -  * Restarting with stat
+2023-03-14 00:31:01,135 -  * Debugger is active!
+2023-03-14 00:31:01,138 -  * Debugger PIN: 410-440-955
+2023-03-14 00:32:01,180 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:32:01,180 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:32:01,183 -  * Restarting with stat
+2023-03-14 00:32:03,018 -  * Debugger is active!
+2023-03-14 00:32:03,022 -  * Debugger PIN: 410-440-955
+2023-03-14 00:34:01,074 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:34:01,120 -  * Restarting with stat
+2023-03-14 00:34:13,171 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:34:13,171 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:34:13,173 -  * Restarting with stat
+2023-03-14 00:34:14,903 -  * Debugger is active!
+2023-03-14 00:34:14,909 -  * Debugger PIN: 410-440-955
+2023-03-14 00:35:24,452 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:35:24,504 -  * Restarting with stat
+2023-03-14 00:35:27,968 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:35:27,969 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:35:27,971 -  * Restarting with stat
+2023-03-14 00:35:29,834 -  * Debugger is active!
+2023-03-14 00:35:29,837 -  * Debugger PIN: 410-440-955
+2023-03-14 00:36:19,519 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:36:19,519 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:36:19,519 -  * Restarting with stat
+2023-03-14 00:36:20,934 -  * Debugger is active!
+2023-03-14 00:36:20,934 -  * Debugger PIN: 410-440-955
+2023-03-14 00:36:44,649 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:36:44,649 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:36:44,656 -  * Restarting with stat
+2023-03-14 00:36:46,624 -  * Debugger is active!
+2023-03-14 00:36:46,627 -  * Debugger PIN: 410-440-955
+2023-03-14 00:37:25,854 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:37:25,854 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:37:25,856 -  * Restarting with stat
+2023-03-14 00:37:27,672 -  * Debugger is active!
+2023-03-14 00:37:27,675 -  * Debugger PIN: 410-440-955
+2023-03-14 00:37:45,532 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:37:45,532 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:37:45,534 -  * Restarting with stat
+2023-03-14 00:37:47,289 -  * Debugger is active!
+2023-03-14 00:37:47,293 -  * Debugger PIN: 410-440-955
+2023-03-14 00:39:33,839 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:39:33,839 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:39:33,841 -  * Restarting with stat
+2023-03-14 00:39:35,655 -  * Debugger is active!
+2023-03-14 00:39:35,659 -  * Debugger PIN: 410-440-955
+2023-03-14 00:39:52,398 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:39:52,399 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:39:52,401 -  * Restarting with stat
+2023-03-14 00:39:54,262 -  * Debugger is active!
+2023-03-14 00:39:54,264 -  * Debugger PIN: 410-440-955
+2023-03-14 00:41:21,113 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:41:21,114 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:41:21,117 -  * Restarting with stat
+2023-03-14 00:41:23,224 -  * Debugger is active!
+2023-03-14 00:41:23,228 -  * Debugger PIN: 410-440-955
+2023-03-14 00:43:26,053 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:43:26,055 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:43:26,056 -  * Restarting with stat
+2023-03-14 00:43:27,812 -  * Debugger is active!
+2023-03-14 00:43:27,815 -  * Debugger PIN: 410-440-955
+2023-03-14 00:44:11,397 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:44:11,397 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:44:11,400 -  * Restarting with stat
+2023-03-14 00:44:13,179 -  * Debugger is active!
+2023-03-14 00:44:13,184 -  * Debugger PIN: 410-440-955
+2023-03-14 00:44:45,557 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:44:45,557 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:44:45,560 -  * Restarting with stat
+2023-03-14 00:44:47,368 -  * Debugger is active!
+2023-03-14 00:44:47,371 -  * Debugger PIN: 410-440-955
+2023-03-14 00:45:50,875 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:45:50,952 -  * Restarting with stat
+2023-03-14 00:45:53,022 -  * Debugger is active!
+2023-03-14 00:45:53,025 -  * Debugger PIN: 410-440-955
+2023-03-14 00:46:05,139 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 00:46:05,196 -  * Restarting with stat
+2023-03-14 00:46:07,346 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 00:46:07,346 - [33mPress CTRL+C to quit[0m
+2023-03-14 00:46:07,349 -  * Restarting with stat
+2023-03-14 00:46:09,378 -  * Debugger is active!
+2023-03-14 00:46:09,382 -  * Debugger PIN: 410-440-955
+2023-03-14 18:04:34,297 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 18:04:34,351 -  * Restarting with stat
+2023-03-14 18:04:45,001 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:04:45,001 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:04:45,005 -  * Restarting with stat
+2023-03-14 18:04:46,580 -  * Debugger is active!
+2023-03-14 18:04:46,583 -  * Debugger PIN: 410-440-955
+2023-03-14 18:04:54,903 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:04:54,903 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:04:54,905 -  * Restarting with stat
+2023-03-14 18:04:56,475 -  * Debugger is active!
+2023-03-14 18:04:56,478 -  * Debugger PIN: 410-440-955
+2023-03-14 18:05:18,009 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:05:18,009 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:05:18,012 -  * Restarting with stat
+2023-03-14 18:05:19,570 -  * Debugger is active!
+2023-03-14 18:05:19,573 -  * Debugger PIN: 410-440-955
+2023-03-14 18:17:24,411 -  * Detected change in 'C:\\Users\\clair\\PycharmProjects\\pythonProject8\\website\\main.py', reloading
+2023-03-14 18:17:24,459 -  * Restarting with stat
+2023-03-14 18:17:26,091 -  * Debugger is active!
+2023-03-14 18:17:26,095 -  * Debugger PIN: 410-440-955
+2023-03-14 18:17:30,081 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:17:30,081 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:17:30,083 -  * Restarting with stat
+2023-03-14 18:17:31,699 -  * Debugger is active!
+2023-03-14 18:17:31,703 -  * Debugger PIN: 410-440-955
+2023-03-14 18:17:36,601 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:17:36,602 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:17:36,604 -  * Restarting with stat
+2023-03-14 18:17:38,161 -  * Debugger is active!
+2023-03-14 18:17:38,164 -  * Debugger PIN: 410-440-955
+2023-03-14 18:18:28,004 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:18:28,004 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:18:28,004 -  * Restarting with stat
+2023-03-14 18:18:29,202 -  * Debugger is active!
+2023-03-14 18:18:29,218 -  * Debugger PIN: 410-440-955
+2023-03-14 18:18:34,986 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-14 18:18:34,986 - [33mPress CTRL+C to quit[0m
+2023-03-14 18:18:34,988 -  * Restarting with stat
+2023-03-14 18:18:36,543 -  * Debugger is active!
+2023-03-14 18:18:36,545 -  * Debugger PIN: 410-440-955
